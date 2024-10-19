@@ -1,0 +1,2682 @@
+[ {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "1",
+  "ERROR-CODE" : 1,
+  "ERROR-CLASSIFICATION-NAME" : "lastName",
+  "ERROR-DESCRIPTION" : "size must be between 3 and 25",
+  "ERROR-DATE" : 1728575825348
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "2",
+  "ERROR-CODE" : 2,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825348
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "3",
+  "ERROR-CODE" : 3,
+  "ERROR-CLASSIFICATION-NAME" : "id",
+  "ERROR-DESCRIPTION" : "must not be empty",
+  "ERROR-DATE" : 1728575825349
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "3",
+  "ERROR-CODE" : 4,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825349
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "9",
+  "ERROR-CODE" : 5,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825437
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "10",
+  "ERROR-CODE" : 6,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825438
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "20",
+  "ERROR-CODE" : 7,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825456
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "22",
+  "ERROR-CODE" : 8,
+  "ERROR-CLASSIFICATION-NAME" : "lastName",
+  "ERROR-DESCRIPTION" : "size must be between 3 and 25",
+  "ERROR-DATE" : 1728575825458
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "24",
+  "ERROR-CODE" : 9,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825460
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "25",
+  "ERROR-CODE" : 10,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825460
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "28",
+  "ERROR-CODE" : 11,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825464
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "31",
+  "ERROR-CODE" : 12,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825468
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "33",
+  "ERROR-CODE" : 13,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825470
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "35",
+  "ERROR-CODE" : 14,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825473
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "38",
+  "ERROR-CODE" : 15,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825476
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "39",
+  "ERROR-CODE" : 16,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825476
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "40",
+  "ERROR-CODE" : 17,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825476
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "44",
+  "ERROR-CODE" : 18,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825482
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "50",
+  "ERROR-CODE" : 19,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825492
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "53",
+  "ERROR-CODE" : 20,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825495
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "55",
+  "ERROR-CODE" : 21,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825497
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "60",
+  "ERROR-CODE" : 22,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825504
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "62",
+  "ERROR-CODE" : 23,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825506
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "63",
+  "ERROR-CODE" : 24,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825506
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "66",
+  "ERROR-CODE" : 25,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825510
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "74",
+  "ERROR-CODE" : 26,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825524
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "80",
+  "ERROR-CODE" : 27,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825531
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "87",
+  "ERROR-CODE" : 28,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825540
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "90",
+  "ERROR-CODE" : 29,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825543
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "92",
+  "ERROR-CODE" : 30,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825544
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "94",
+  "ERROR-CODE" : 31,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825547
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "97",
+  "ERROR-CODE" : 32,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825550
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "99",
+  "ERROR-CODE" : 33,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825551
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "101",
+  "ERROR-CODE" : 34,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825553
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "106",
+  "ERROR-CODE" : 35,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825558
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "107",
+  "ERROR-CODE" : 36,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825558
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "109",
+  "ERROR-CODE" : 37,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825560
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "111",
+  "ERROR-CODE" : 38,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825561
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "112",
+  "ERROR-CODE" : 39,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825561
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "119",
+  "ERROR-CODE" : 40,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825569
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "120",
+  "ERROR-CODE" : 41,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825570
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "121",
+  "ERROR-CODE" : 42,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825570
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "122",
+  "ERROR-CODE" : 43,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825570
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "125",
+  "ERROR-CODE" : 44,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825572
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "131",
+  "ERROR-CODE" : 45,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825580
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "135",
+  "ERROR-CODE" : 46,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825584
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "143",
+  "ERROR-CODE" : 47,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825593
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "146",
+  "ERROR-CODE" : 48,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825595
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "149",
+  "ERROR-CODE" : 49,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825598
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "153",
+  "ERROR-CODE" : 50,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825602
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "155",
+  "ERROR-CODE" : 51,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825603
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "156",
+  "ERROR-CODE" : 52,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825603
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "157",
+  "ERROR-CODE" : 53,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825603
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "159",
+  "ERROR-CODE" : 54,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825604
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "161",
+  "ERROR-CODE" : 55,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825605
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "163",
+  "ERROR-CODE" : 56,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825607
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "168",
+  "ERROR-CODE" : 57,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825611
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "175",
+  "ERROR-CODE" : 58,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825618
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "179",
+  "ERROR-CODE" : 59,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825622
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "180",
+  "ERROR-CODE" : 60,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825622
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "181",
+  "ERROR-CODE" : 61,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825622
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "192",
+  "ERROR-CODE" : 62,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825642
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "196",
+  "ERROR-CODE" : 63,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825649
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "198",
+  "ERROR-CODE" : 64,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825651
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "206",
+  "ERROR-CODE" : 65,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825660
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "212",
+  "ERROR-CODE" : 66,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825666
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "214",
+  "ERROR-CODE" : 67,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825667
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "215",
+  "ERROR-CODE" : 68,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825667
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "216",
+  "ERROR-CODE" : 69,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825667
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "222",
+  "ERROR-CODE" : 70,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825672
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "226",
+  "ERROR-CODE" : 71,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825676
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "231",
+  "ERROR-CODE" : 72,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825681
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "236",
+  "ERROR-CODE" : 73,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825686
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "237",
+  "ERROR-CODE" : 74,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825686
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "239",
+  "ERROR-CODE" : 75,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825688
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "244",
+  "ERROR-CODE" : 76,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825693
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "245",
+  "ERROR-CODE" : 77,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825693
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "246",
+  "ERROR-CODE" : 78,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825693
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "252",
+  "ERROR-CODE" : 79,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825699
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "253",
+  "ERROR-CODE" : 80,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825699
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "255",
+  "ERROR-CODE" : 81,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825701
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "256",
+  "ERROR-CODE" : 82,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825701
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "258",
+  "ERROR-CODE" : 83,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825702
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "260",
+  "ERROR-CODE" : 84,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825703
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "261",
+  "ERROR-CODE" : 85,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825703
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "267",
+  "ERROR-CODE" : 86,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825710
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "271",
+  "ERROR-CODE" : 87,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825713
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "274",
+  "ERROR-CODE" : 88,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825716
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "291",
+  "ERROR-CODE" : 89,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825737
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "301",
+  "ERROR-CODE" : 90,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825748
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "305",
+  "ERROR-CODE" : 91,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825752
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "306",
+  "ERROR-CODE" : 92,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825752
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "314",
+  "ERROR-CODE" : 93,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825761
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "315",
+  "ERROR-CODE" : 94,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825761
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "319",
+  "ERROR-CODE" : 95,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825764
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "320",
+  "ERROR-CODE" : 96,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825764
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "322",
+  "ERROR-CODE" : 97,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825765
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "324",
+  "ERROR-CODE" : 98,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825767
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "325",
+  "ERROR-CODE" : 99,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825767
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "326",
+  "ERROR-CODE" : 100,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825767
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "331",
+  "ERROR-CODE" : 101,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825772
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "334",
+  "ERROR-CODE" : 102,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825775
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "338",
+  "ERROR-CODE" : 103,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825778
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "340",
+  "ERROR-CODE" : 104,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825779
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "342",
+  "ERROR-CODE" : 105,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825780
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "345",
+  "ERROR-CODE" : 106,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825783
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "347",
+  "ERROR-CODE" : 107,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825784
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "348",
+  "ERROR-CODE" : 108,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825784
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "350",
+  "ERROR-CODE" : 109,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825785
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "357",
+  "ERROR-CODE" : 110,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825791
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "363",
+  "ERROR-CODE" : 111,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825798
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "367",
+  "ERROR-CODE" : 112,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825803
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "368",
+  "ERROR-CODE" : 113,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825803
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "372",
+  "ERROR-CODE" : 114,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825807
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "382",
+  "ERROR-CODE" : 115,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825815
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "383",
+  "ERROR-CODE" : 116,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825815
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "384",
+  "ERROR-CODE" : 117,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825815
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "390",
+  "ERROR-CODE" : 118,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825820
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "391",
+  "ERROR-CODE" : 119,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825820
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "395",
+  "ERROR-CODE" : 120,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825822
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "399",
+  "ERROR-CODE" : 121,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825825
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "416",
+  "ERROR-CODE" : 122,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825838
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "419",
+  "ERROR-CODE" : 123,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825840
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "424",
+  "ERROR-CODE" : 124,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825844
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "432",
+  "ERROR-CODE" : 125,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825850
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "435",
+  "ERROR-CODE" : 126,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825852
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "440",
+  "ERROR-CODE" : 127,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825855
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "443",
+  "ERROR-CODE" : 128,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825857
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "444",
+  "ERROR-CODE" : 129,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825857
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "448",
+  "ERROR-CODE" : 130,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825861
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "451",
+  "ERROR-CODE" : 131,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825863
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "452",
+  "ERROR-CODE" : 132,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825863
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "455",
+  "ERROR-CODE" : 133,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825865
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "457",
+  "ERROR-CODE" : 134,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825866
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "458",
+  "ERROR-CODE" : 135,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825866
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "460",
+  "ERROR-CODE" : 136,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825867
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "465",
+  "ERROR-CODE" : 137,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825871
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "466",
+  "ERROR-CODE" : 138,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825871
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "468",
+  "ERROR-CODE" : 139,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825872
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "469",
+  "ERROR-CODE" : 140,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825872
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "476",
+  "ERROR-CODE" : 141,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825891
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "477",
+  "ERROR-CODE" : 142,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825891
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "479",
+  "ERROR-CODE" : 143,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825892
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "480",
+  "ERROR-CODE" : 144,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825892
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "484",
+  "ERROR-CODE" : 145,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825896
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "487",
+  "ERROR-CODE" : 146,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825898
+}, {
+  "FILE-NAME" : "Customer",
+  "RECORD-NUMBER" : "489",
+  "ERROR-CODE" : 147,
+  "ERROR-CLASSIFICATION-NAME" : "nationalId",
+  "ERROR-DESCRIPTION" : "National ID must be exactly 10 characters long",
+  "ERROR-DATE" : 1728575825899
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "",
+  "ERROR-CODE" : 148,
+  "ERROR-CLASSIFICATION-NAME" : "recordNumber",
+  "ERROR-DESCRIPTION" : "must not be empty",
+  "ERROR-DATE" : 1728575825931
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "2",
+  "ERROR-CODE" : 149,
+  "ERROR-CLASSIFICATION-NAME" : "accountNumber",
+  "ERROR-DESCRIPTION" : "must not be empty",
+  "ERROR-DATE" : 1728575825931
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "3",
+  "ERROR-CODE" : 150,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575825932
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "3",
+  "ERROR-CODE" : 151,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825932
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "7",
+  "ERROR-CODE" : 152,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575825953
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "8",
+  "ERROR-CODE" : 153,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575825953
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "10",
+  "ERROR-CODE" : 154,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825953
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "11",
+  "ERROR-CODE" : 155,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825953
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "15",
+  "ERROR-CODE" : 156,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825962
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "16",
+  "ERROR-CODE" : 157,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825962
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "17",
+  "ERROR-CODE" : 158,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575825963
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "18",
+  "ERROR-CODE" : 159,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575825963
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "20",
+  "ERROR-CODE" : 160,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575825965
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "22",
+  "ERROR-CODE" : 161,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575825968
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "24",
+  "ERROR-CODE" : 162,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825970
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "28",
+  "ERROR-CODE" : 163,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575825980
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "30",
+  "ERROR-CODE" : 164,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825982
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "31",
+  "ERROR-CODE" : 165,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825982
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "34",
+  "ERROR-CODE" : 166,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825986
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "37",
+  "ERROR-CODE" : 167,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825988
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "40",
+  "ERROR-CODE" : 168,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575825989
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "42",
+  "ERROR-CODE" : 169,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825994
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "43",
+  "ERROR-CODE" : 170,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575825996
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "45",
+  "ERROR-CODE" : 171,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575825996
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "47",
+  "ERROR-CODE" : 172,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826001
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "49",
+  "ERROR-CODE" : 173,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826003
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "56",
+  "ERROR-CODE" : 174,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826010
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "57",
+  "ERROR-CODE" : 175,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826010
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "60",
+  "ERROR-CODE" : 176,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826014
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "61",
+  "ERROR-CODE" : 177,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826014
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "63",
+  "ERROR-CODE" : 178,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826014
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "64",
+  "ERROR-CODE" : 179,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826014
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "68",
+  "ERROR-CODE" : 180,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826018
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "71",
+  "ERROR-CODE" : 181,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826023
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "72",
+  "ERROR-CODE" : 182,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826023
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "74",
+  "ERROR-CODE" : 183,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826024
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "75",
+  "ERROR-CODE" : 184,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826025
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "76",
+  "ERROR-CODE" : 185,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826025
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "78",
+  "ERROR-CODE" : 186,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826027
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "79",
+  "ERROR-CODE" : 187,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826027
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "80",
+  "ERROR-CODE" : 188,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826027
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "81",
+  "ERROR-CODE" : 189,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826027
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "83",
+  "ERROR-CODE" : 190,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826029
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "85",
+  "ERROR-CODE" : 191,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826037
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "87",
+  "ERROR-CODE" : 192,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826042
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "89",
+  "ERROR-CODE" : 193,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826044
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "93",
+  "ERROR-CODE" : 194,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826045
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "94",
+  "ERROR-CODE" : 195,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826045
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "95",
+  "ERROR-CODE" : 196,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826045
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "97",
+  "ERROR-CODE" : 197,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826047
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "98",
+  "ERROR-CODE" : 198,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826047
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "103",
+  "ERROR-CODE" : 199,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826051
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "108",
+  "ERROR-CODE" : 200,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826055
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "111",
+  "ERROR-CODE" : 201,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826056
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "114",
+  "ERROR-CODE" : 202,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826058
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "117",
+  "ERROR-CODE" : 203,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826062
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "125",
+  "ERROR-CODE" : 204,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826067
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "127",
+  "ERROR-CODE" : 205,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826069
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "130",
+  "ERROR-CODE" : 206,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826073
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "136",
+  "ERROR-CODE" : 207,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826079
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "138",
+  "ERROR-CODE" : 208,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826081
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "139",
+  "ERROR-CODE" : 209,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826081
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "140",
+  "ERROR-CODE" : 210,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826081
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "142",
+  "ERROR-CODE" : 211,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826085
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "144",
+  "ERROR-CODE" : 212,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826085
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "145",
+  "ERROR-CODE" : 213,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826085
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "146",
+  "ERROR-CODE" : 214,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826085
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "150",
+  "ERROR-CODE" : 215,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826089
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "152",
+  "ERROR-CODE" : 216,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826091
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "154",
+  "ERROR-CODE" : 217,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826091
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "155",
+  "ERROR-CODE" : 218,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826091
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "157",
+  "ERROR-CODE" : 219,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826091
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "158",
+  "ERROR-CODE" : 220,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826091
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "161",
+  "ERROR-CODE" : 221,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826093
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "162",
+  "ERROR-CODE" : 222,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826093
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "165",
+  "ERROR-CODE" : 223,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826095
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "166",
+  "ERROR-CODE" : 224,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826095
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "167",
+  "ERROR-CODE" : 225,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826095
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "168",
+  "ERROR-CODE" : 226,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826095
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "171",
+  "ERROR-CODE" : 227,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826098
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "173",
+  "ERROR-CODE" : 228,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "174",
+  "ERROR-CODE" : 229,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "175",
+  "ERROR-CODE" : 230,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "176",
+  "ERROR-CODE" : 231,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "177",
+  "ERROR-CODE" : 232,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "178",
+  "ERROR-CODE" : 233,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "179",
+  "ERROR-CODE" : 234,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "180",
+  "ERROR-CODE" : 235,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "182",
+  "ERROR-CODE" : 236,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "183",
+  "ERROR-CODE" : 237,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "184",
+  "ERROR-CODE" : 238,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "185",
+  "ERROR-CODE" : 239,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "186",
+  "ERROR-CODE" : 240,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826100
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "187",
+  "ERROR-CODE" : 241,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826101
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "188",
+  "ERROR-CODE" : 242,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826101
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "189",
+  "ERROR-CODE" : 243,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826101
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "192",
+  "ERROR-CODE" : 244,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826105
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "195",
+  "ERROR-CODE" : 245,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826110
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "197",
+  "ERROR-CODE" : 246,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826110
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "198",
+  "ERROR-CODE" : 247,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826110
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "202",
+  "ERROR-CODE" : 248,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826115
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "204",
+  "ERROR-CODE" : 249,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826117
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "205",
+  "ERROR-CODE" : 250,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826117
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "206",
+  "ERROR-CODE" : 251,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826117
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "207",
+  "ERROR-CODE" : 252,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826117
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "208",
+  "ERROR-CODE" : 253,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826117
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "212",
+  "ERROR-CODE" : 254,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826122
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "216",
+  "ERROR-CODE" : 255,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826124
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "219",
+  "ERROR-CODE" : 256,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826127
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "221",
+  "ERROR-CODE" : 257,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826130
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "222",
+  "ERROR-CODE" : 258,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826130
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "228",
+  "ERROR-CODE" : 259,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826137
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "229",
+  "ERROR-CODE" : 260,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826137
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "232",
+  "ERROR-CODE" : 261,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826139
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "234",
+  "ERROR-CODE" : 262,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826141
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "238",
+  "ERROR-CODE" : 263,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826143
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "242",
+  "ERROR-CODE" : 264,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826146
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "248",
+  "ERROR-CODE" : 265,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826150
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "250",
+  "ERROR-CODE" : 266,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826151
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "252",
+  "ERROR-CODE" : 267,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826153
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "253",
+  "ERROR-CODE" : 268,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826153
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "255",
+  "ERROR-CODE" : 269,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826154
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "256",
+  "ERROR-CODE" : 270,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826155
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "257",
+  "ERROR-CODE" : 271,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826155
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "259",
+  "ERROR-CODE" : 272,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826155
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "261",
+  "ERROR-CODE" : 273,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826155
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "262",
+  "ERROR-CODE" : 274,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826155
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "263",
+  "ERROR-CODE" : 275,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826155
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "266",
+  "ERROR-CODE" : 276,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826159
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "268",
+  "ERROR-CODE" : 277,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826160
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "272",
+  "ERROR-CODE" : 278,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826162
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "274",
+  "ERROR-CODE" : 279,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826164
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "275",
+  "ERROR-CODE" : 280,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826164
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "280",
+  "ERROR-CODE" : 281,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826169
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "287",
+  "ERROR-CODE" : 282,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826178
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "288",
+  "ERROR-CODE" : 283,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826179
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "291",
+  "ERROR-CODE" : 284,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826181
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "292",
+  "ERROR-CODE" : 285,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826181
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "301",
+  "ERROR-CODE" : 286,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826192
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "307",
+  "ERROR-CODE" : 287,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826196
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "311",
+  "ERROR-CODE" : 288,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826200
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "313",
+  "ERROR-CODE" : 289,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826201
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "318",
+  "ERROR-CODE" : 290,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826204
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "321",
+  "ERROR-CODE" : 291,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826204
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "322",
+  "ERROR-CODE" : 292,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826204
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "324",
+  "ERROR-CODE" : 293,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826205
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "326",
+  "ERROR-CODE" : 294,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826206
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "327",
+  "ERROR-CODE" : 295,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826206
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "328",
+  "ERROR-CODE" : 296,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826206
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "330",
+  "ERROR-CODE" : 297,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826207
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "331",
+  "ERROR-CODE" : 298,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826207
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "334",
+  "ERROR-CODE" : 299,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826212
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "336",
+  "ERROR-CODE" : 300,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826214
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "344",
+  "ERROR-CODE" : 301,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826219
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "345",
+  "ERROR-CODE" : 302,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826219
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "349",
+  "ERROR-CODE" : 303,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826220
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "350",
+  "ERROR-CODE" : 304,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826220
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "353",
+  "ERROR-CODE" : 305,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826223
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "354",
+  "ERROR-CODE" : 306,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826223
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "356",
+  "ERROR-CODE" : 307,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826224
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "357",
+  "ERROR-CODE" : 308,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826224
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "361",
+  "ERROR-CODE" : 309,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826228
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "365",
+  "ERROR-CODE" : 310,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826231
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "368",
+  "ERROR-CODE" : 311,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826232
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "370",
+  "ERROR-CODE" : 312,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826233
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "373",
+  "ERROR-CODE" : 313,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826234
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "374",
+  "ERROR-CODE" : 314,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826234
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "375",
+  "ERROR-CODE" : 315,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826235
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "376",
+  "ERROR-CODE" : 316,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826235
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "377",
+  "ERROR-CODE" : 317,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826235
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "379",
+  "ERROR-CODE" : 318,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826236
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "382",
+  "ERROR-CODE" : 319,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826238
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "383",
+  "ERROR-CODE" : 320,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826238
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "384",
+  "ERROR-CODE" : 321,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826238
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "386",
+  "ERROR-CODE" : 322,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826240
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "387",
+  "ERROR-CODE" : 323,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826240
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "389",
+  "ERROR-CODE" : 324,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826242
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "393",
+  "ERROR-CODE" : 325,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826243
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "394",
+  "ERROR-CODE" : 326,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826243
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "395",
+  "ERROR-CODE" : 327,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826243
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "398",
+  "ERROR-CODE" : 328,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826245
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "400",
+  "ERROR-CODE" : 329,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826245
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "401",
+  "ERROR-CODE" : 330,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826245
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "402",
+  "ERROR-CODE" : 331,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826245
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "404",
+  "ERROR-CODE" : 332,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826247
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "407",
+  "ERROR-CODE" : 333,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826249
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "408",
+  "ERROR-CODE" : 334,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826249
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "410",
+  "ERROR-CODE" : 335,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826251
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "412",
+  "ERROR-CODE" : 336,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826252
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "414",
+  "ERROR-CODE" : 337,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826254
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "417",
+  "ERROR-CODE" : 338,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826256
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "419",
+  "ERROR-CODE" : 339,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826257
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "420",
+  "ERROR-CODE" : 340,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826257
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "421",
+  "ERROR-CODE" : 341,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826257
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "422",
+  "ERROR-CODE" : 342,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826257
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "423",
+  "ERROR-CODE" : 343,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826257
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "425",
+  "ERROR-CODE" : 344,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826257
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "426",
+  "ERROR-CODE" : 345,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826257
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "432",
+  "ERROR-CODE" : 346,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826263
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "434",
+  "ERROR-CODE" : 347,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826265
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "437",
+  "ERROR-CODE" : 348,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826266
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "438",
+  "ERROR-CODE" : 349,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826266
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "439",
+  "ERROR-CODE" : 350,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826266
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "440",
+  "ERROR-CODE" : 351,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826266
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "441",
+  "ERROR-CODE" : 352,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826266
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "446",
+  "ERROR-CODE" : 353,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826269
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "449",
+  "ERROR-CODE" : 354,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826270
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "450",
+  "ERROR-CODE" : 355,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826270
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "451",
+  "ERROR-CODE" : 356,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826270
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "455",
+  "ERROR-CODE" : 357,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826273
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "461",
+  "ERROR-CODE" : 358,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826275
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "462",
+  "ERROR-CODE" : 359,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826275
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "463",
+  "ERROR-CODE" : 360,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826275
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "465",
+  "ERROR-CODE" : 361,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826277
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "466",
+  "ERROR-CODE" : 362,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826277
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "467",
+  "ERROR-CODE" : 363,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826277
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "468",
+  "ERROR-CODE" : 364,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826277
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "469",
+  "ERROR-CODE" : 365,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826277
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "470",
+  "ERROR-CODE" : 366,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826277
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "473",
+  "ERROR-CODE" : 367,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826280
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "476",
+  "ERROR-CODE" : 368,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826283
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "478",
+  "ERROR-CODE" : 369,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826283
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "481",
+  "ERROR-CODE" : 370,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826283
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "482",
+  "ERROR-CODE" : 371,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826283
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "483",
+  "ERROR-CODE" : 372,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826283
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "484",
+  "ERROR-CODE" : 373,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826283
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "485",
+  "ERROR-CODE" : 374,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826283
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "486",
+  "ERROR-CODE" : 375,
+  "ERROR-CLASSIFICATION-NAME" : "balanceLessThanOrEqualToLimit",
+  "ERROR-DESCRIPTION" : "Balance must be less than or equal to the limit",
+  "ERROR-DATE" : 1728575826283
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "488",
+  "ERROR-CODE" : 376,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826283
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "489",
+  "ERROR-CODE" : 377,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826283
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "491",
+  "ERROR-CODE" : 378,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826285
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "492",
+  "ERROR-CODE" : 379,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826285
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "493",
+  "ERROR-CODE" : 380,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826285
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "495",
+  "ERROR-CODE" : 381,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826286
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "499",
+  "ERROR-CODE" : 382,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826291
+}, {
+  "FILE-NAME" : "Account",
+  "RECORD-NUMBER" : "500",
+  "ERROR-CODE" : 383,
+  "ERROR-CLASSIFICATION-NAME" : "limit",
+  "ERROR-DESCRIPTION" : "must be between 500 and 1000",
+  "ERROR-DATE" : 1728575826291
+} ]
